@@ -59,6 +59,9 @@ gradlew.bat build  # For Windows
 6. **Access the API:**
 You can test the API endpoints using Postman or any API testing tool. Some sample endpoints are:
 
+http://localhost:8080/centers -> use this as localhost
+
+
 GET /centers/all - Get all centers
 GET /centers/{id} - Get centers by id
 POST /centers - Create a new center(take this example)
